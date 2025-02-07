@@ -1,5 +1,17 @@
-# TaxiVista-Visualization-Dashboard-on-Taxi-Trips
+# TaxiVista Dashboard 🚖📊  
+A **data-driven React application** designed to visualize and analyze taxi trip data for **Chicago City (2013-2023)**. This project integrates **React.js**, **Firebase authentication**, and **Recharts** for interactive data visualization.  
 
-The dashboard will introduce an approach of "data driven" React application that will focus on visualizing the taxi data of Chicago City. The project is tailored to fill data analysis needs, using data accessed from taxi trips, providing an option login and view the insights and correlations found from the trips helpful for future analysis.
+## 🚀 Features  
+- **User Authentication**: Secure login via Firebase  
+- **Interactive Data Visualization**: Insights and correlations from taxi trips  
+- **Time-Series Analysis**: Trends in taxi usage over the past decade  
+- **Customizable Views**: Filter data by year, location, and more  
+- **Stakeholder Engagement**: Useful for transport analysts, urban planners, and researchers  
 
-The main objective focuses specifically on solving the problems by developing a data driven React application uniquely designed to visualize and analyze data on taxi trips from 2013-2023 combined with React.js, Firebase authentication and Recharts visualization libraries. This project aims to promote equal access to transport data, explore more about taxi rides and engage various stakeholders from transport analysts, decision makers, researchers, and urban planners.
+## 📌 Tech Stack  
+- **Frontend**: React.js, Tailwind CSS  
+- **Backend**: Firebase Authentication  
+- **Visualization**: Recharts  
+
+## 📊 Data Source  
+This dashboard utilizes taxi trip data from **2013-2023**, focusing on analyzing patterns, trends, and insights to help improve decision-making in urban transportation.  
